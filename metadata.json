@@ -1,0 +1,7 @@
+{
+  "name": "Nkuli Adventures - Kenya Safari Experts",
+  "description": "Leading Kenya safari company offering unforgettable safaris to Maasai Mara, Amboseli, Samburu, and Diani Beach.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
